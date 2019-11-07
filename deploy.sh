@@ -2,8 +2,8 @@
 
 #Create Variables
 DOMAIN="nucleomerce.gq"
-MYSQL_USER_DOMAIN="tonyinuma"
-MYSQL_PASS_DOMAIN="oei.2014"
+MYSQL_USER_DOMAIN="root"
+MYSQL_PASS_DOMAIN=""
 
 #Update dependences
 sudo apt-get update
